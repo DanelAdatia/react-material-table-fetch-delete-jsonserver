@@ -1,0 +1,32 @@
+{
+  "EmployeeDetails": [
+    {
+      "id": 5,
+      "name": "Lisa Jones",
+      "address": "London",
+      "phone": "000000005",
+      "designation": "Library clerk"
+    },
+    {
+      "id": 6,
+      "name": "Alissa Violet",
+      "address": "UK",
+      "phone": "000000006",
+      "designation": "Actor/ Model"
+    },
+    {
+      "id": 7,
+      "name": "Usher poll",
+      "address": "Tokyo",
+      "phone": "000000007",
+      "designation": "Backend Developer"
+    },
+    {
+      "id": 8,
+      "name": "Katy Perry",
+      "address": "England",
+      "phone": "000000009",
+      "designation": "Front end Developer"
+    }
+  ]
+}
